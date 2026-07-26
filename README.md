@@ -161,36 +161,23 @@ Checks whether AI risk classification incorrectly labels highly engaged customer
 
 # Power BI Dashboard
 
-The dashboard consists of four pages:
+## Dashboard Preview
 
 ### Executive Overview
 
-- KPI Cards
-- Customer Distribution
-- AI Risk Distribution
-- KYC Status
-- Retention Summary
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Customer Demographics
 
-- Country Analysis
-- Occupation Distribution
-- Income Band Analysis
-- Subscription Plans
+![Customer Demographics](screenshots/Customer_Demographics.png)
 
 ### Churn & Engagement
 
-- Feature Engagement
-- Customer Friction
-- Churn Risk
-- Plan Comparison
+![Churn & Engagement](screenshots/Churn_Engagement.png)
 
 ### AI Insights
 
-- What-if Analysis
-- High-Risk Customers
-- Estimated Retained Value
-- Business Recommendations
+![AI Insights](screenshots/AI_Insights.png)
 
 ---
 
@@ -231,4 +218,4 @@ The analysis revealed that:
 
 **Jadesola Ogunkayode**
 
-Aspiring Data Analyst | Python | SQL Server | Power BI | Data Visualisation
+Junior Data Analyst | Python | SQL Server | Power BI | Data Visualisation
