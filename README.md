@@ -80,8 +80,7 @@ After data cleaning, the final dataset contained:
 
 ---
 
-# End-to-End ETL Pipeline
-
+# End-to-End Customer Churn Analytics Workflow
 ```text
 Raw Excel Dataset
         │
